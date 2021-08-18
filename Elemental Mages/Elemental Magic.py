@@ -3,7 +3,7 @@ Kao Vue
 This game is based on Rock Paper Scissors. However, instead of using those objects, it's based on the magical elements:
 fire, ice, and thunder.
 User will input which object they would like as an element and the computer will randomly pick an element.
-Whichever Mage (player or computer) that reaches 0 health points first is defeated. Both can be tie the battle!
+Whichever Mage (player or computer) that reaches 0 health points first is defeated. Both can be the battle!
 Try to win the most battles to achieve victory and be the best Elemental Mage!
 This game can be played repeatedly without rerunning PyCharm. Game will need to be rerun if you end game.
 The reward gif will present based on user's and computer's outcome.
