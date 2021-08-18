@@ -1,0 +1,11 @@
+def info():
+    print("\nPlayer chooses Fire : f, Ice : i, Thunder: t")
+    print("The computer will choose its element and a winner will be chosen.")
+    print(input("The rules for winning are as follows: Press Enter to Proceed."))
+    print("Fire melts Ice, Ice freezes Thunder, Thunder outshines Fire.")
+    print("Each Mage (Player and Computer) will start with 100 health points.")
+    print("Whichever Mage that still have health points is declared the winner.")
+    print("Be careful not to choose the same Element as the computer! If you do, both Mages will take damage!")
+    print("It is possible for you (Player) to tie with the Computer!")
+    print("Win the most battles to achieve victory! Good luck!")
+    print(input("\nPress Enter When Ready to Play."))
